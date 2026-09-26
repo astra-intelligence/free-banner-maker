@@ -44,3 +44,13 @@ Built on SVG — no image uploads, no servers, no tracking. Everything runs in y
 ---
 
 **Looking for AI-generated banners?** Check out [BannerGen CLI](https://github.com/astra-intelligence/bannergen-cli) — generate unlimited AI-powered banners from text prompts with 5 design styles and batch processing. Pay what you want from $1.
+
+
+---
+
+## Support
+
+If you find this project useful, consider [buying me a coffee](https://buymeacoffee.com/grantshatzer) or [sponsoring on GitHub](https://github.com/sponsors/astra-intelligence).
+
+Check out more tools at [grantshatz.gumroad.com](https://grantshatz.gumroad.com).
+

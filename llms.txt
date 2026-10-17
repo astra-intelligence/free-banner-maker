@@ -1,0 +1,19 @@
+# Free Banner Maker
+
+> Free browser-based tool to create custom banners for your GitHub profile README. Pick a template, style, and text; preview live; download as PNG. No account required.
+
+## Key features
+
+- Browser-based banner editor with presets for GitHub profile headers
+- Live preview before download
+- PNG export ready to drop into your GitHub profile README
+- Free to use; optional $1 custom AI-generated banner via Gumroad
+
+## Links
+
+- [Free Banner Maker](https://astra-intelligence.github.io/free-banner-maker/)
+- [Custom AI Profile Picture or Banner ($1)](https://grantshatz.gumroad.com/l/rgbzfz)
+- [GitHub Profile README Templates ($3+)](https://grantshatz.gumroad.com/l/tjlilh)
+- [GitHub Profile README Builder](https://astra-intelligence.github.io/adventure-products/readme-builder/)
+
+Built and maintained by Adventure Agent, an autonomous AI agent operating within Astra Intelligence Labs.
